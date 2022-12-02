@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <row>
-    <index>Barbecued</index>
+    <index>Barbecued Chicken</index>
     <quantity>2273.0</quantity>
     <per_week>43.59</per_week>
   </row>
   <row>
-    <index>Chicken</index>
-    <quantity>10342.5</quantity>
-    <per_week>198.35</per_week>
+    <index>Red Peppers</index>
+    <quantity>15257.75</quantity>
+    <per_week>292.61</per_week>
   </row>
   <row>
-    <index>Red</index>
-    <quantity>33517.75</quantity>
-    <per_week>642.81</per_week>
-  </row>
-  <row>
-    <index>Peppers</index>
-    <quantity>26398.5</quantity>
-    <per_week>506.27</per_week>
-  </row>
-  <row>
-    <index>Green</index>
-    <quantity>10340.5</quantity>
-    <per_week>198.31</per_week>
+    <index>Green Peppers</index>
+    <quantity>4805.0</quantity>
+    <per_week>92.15</per_week>
   </row>
   <row>
     <index>Tomatoes</index>
-    <quantity>27587.5</quantity>
-    <per_week>529.08</per_week>
+    <quantity>25060.5</quantity>
+    <per_week>480.61</per_week>
   </row>
   <row>
-    <index>Onions</index>
-    <quantity>20271.25</quantity>
-    <per_week>388.76</per_week>
+    <index>Red Onions</index>
+    <quantity>18260.0</quantity>
+    <per_week>350.19</per_week>
   </row>
   <row>
-    <index>Barbecue</index>
+    <index>Barbecue Sauce</index>
     <quantity>2273.0</quantity>
     <per_week>43.59</per_week>
   </row>
   <row>
-    <index>Sauce</index>
-    <quantity>11313.0</quantity>
-    <per_week>216.96</per_week>
+    <index>Tomatoe</index>
+    <quantity>44991.0</quantity>
+    <per_week>862.84</per_week>
+  </row>
+  <row>
+    <index>Mozzarella Cheese</index>
+    <quantity>51242.25</quantity>
+    <per_week>982.73</per_week>
+  </row>
+  <row>
+    <index>Chicken</index>
+    <quantity>8069.5</quantity>
+    <per_week>154.76</per_week>
   </row>
   <row>
     <index>Artichoke</index>
@@ -61,24 +61,19 @@
     <per_week>499.28</per_week>
   </row>
   <row>
-    <index>Jalapeno</index>
+    <index>Jalapeno Peppers</index>
     <quantity>5449.75</quantity>
     <per_week>104.52</per_week>
   </row>
   <row>
-    <index>Fontina</index>
+    <index>Fontina Cheese</index>
     <quantity>3020.0</quantity>
     <per_week>57.92</per_week>
   </row>
   <row>
-    <index>Cheese</index>
-    <quantity>38276.5</quantity>
-    <per_week>734.07</per_week>
-  </row>
-  <row>
-    <index>Gouda</index>
-    <quantity>3716.0</quantity>
-    <per_week>71.27</per_week>
+    <index>Gouda Cheese</index>
+    <quantity>2148.5</quantity>
+    <per_week>41.2</per_week>
   </row>
   <row>
     <index>Mushrooms</index>
@@ -86,17 +81,17 @@
     <per_week>161.25</per_week>
   </row>
   <row>
-    <index>Asiago</index>
+    <index>Asiago Cheese</index>
     <quantity>3087.5</quantity>
     <per_week>59.21</per_week>
   </row>
   <row>
-    <index>Alfredo</index>
+    <index>Alfredo Sauce</index>
     <quantity>897.25</quantity>
     <per_week>17.21</per_week>
   </row>
   <row>
-    <index>Pesto</index>
+    <index>Pesto Sauce</index>
     <quantity>2564.75</quantity>
     <per_week>49.19</per_week>
   </row>
@@ -111,7 +106,7 @@
     <per_week>63.31</per_week>
   </row>
   <row>
-    <index>Chipotle</index>
+    <index>Chipotle Sauce</index>
     <quantity>3301.25</quantity>
     <per_week>63.31</per_week>
   </row>
@@ -121,17 +116,7 @@
     <per_week>84.14</per_week>
   </row>
   <row>
-    <index>Thai</index>
-    <quantity>2276.75</quantity>
-    <per_week>43.66</per_week>
-  </row>
-  <row>
-    <index>Sweet</index>
-    <quantity>2276.75</quantity>
-    <per_week>43.66</per_week>
-  </row>
-  <row>
-    <index>Chilli</index>
+    <index>Thai Sweet Chilli Sauce</index>
     <quantity>2276.75</quantity>
     <per_week>43.66</per_week>
   </row>
@@ -146,34 +131,19 @@
     <per_week>169.38</per_week>
   </row>
   <row>
-    <index>Italian</index>
+    <index>Italian Sausage</index>
     <quantity>1257.0</quantity>
     <per_week>24.11</per_week>
   </row>
   <row>
-    <index>Sausage</index>
-    <quantity>4207.25</quantity>
-    <per_week>80.69</per_week>
-  </row>
-  <row>
-    <index>Chorizo</index>
+    <index>Chorizo Sausage</index>
     <quantity>1257.0</quantity>
     <per_week>24.11</per_week>
   </row>
   <row>
-    <index>Sliced</index>
+    <index>Sliced Ham</index>
     <quantity>2110.5</quantity>
     <per_week>40.48</per_week>
-  </row>
-  <row>
-    <index>Ham</index>
-    <quantity>2110.5</quantity>
-    <per_week>40.48</per_week>
-  </row>
-  <row>
-    <index>Mozzarella</index>
-    <quantity>9940.25</quantity>
-    <per_week>190.63</per_week>
   </row>
   <row>
     <index>Capocollo</index>
@@ -181,7 +151,7 @@
     <per_week>121.76</per_week>
   </row>
   <row>
-    <index>Goat</index>
+    <index>Goat Cheese</index>
     <quantity>3199.5</quantity>
     <per_week>61.36</per_week>
   </row>
@@ -196,52 +166,37 @@
     <per_week>24.86</per_week>
   </row>
   <row>
-    <index>Olives</index>
-    <quantity>8685.5</quantity>
-    <per_week>166.57</per_week>
+    <index>Green Olives</index>
+    <quantity>5535.5</quantity>
+    <per_week>106.16</per_week>
   </row>
   <row>
-    <index>Kalamata</index>
+    <index>Kalamata Olives</index>
     <quantity>3150.0</quantity>
     <per_week>60.41</per_week>
   </row>
   <row>
-    <index>Feta</index>
+    <index>Feta Cheese</index>
     <quantity>4364.75</quantity>
     <per_week>83.71</per_week>
   </row>
   <row>
-    <index>Beef</index>
+    <index>Beef Chuck Roast</index>
     <quantity>1486.25</quantity>
     <per_week>28.5</per_week>
   </row>
   <row>
-    <index>Chuck</index>
-    <quantity>1486.25</quantity>
-    <per_week>28.5</per_week>
-  </row>
-  <row>
-    <index>Roast</index>
-    <quantity>1486.25</quantity>
-    <per_week>28.5</per_week>
-  </row>
-  <row>
-    <index>Brie</index>
-    <quantity>318.0</quantity>
-    <per_week>6.1</per_week>
-  </row>
-  <row>
-    <index>Carre</index>
+    <index>Brie Carre Cheese</index>
     <quantity>318.0</quantity>
     <per_week>6.1</per_week>
   </row>
   <row>
     <index>Prosciutto</index>
-    <quantity>1611.25</quantity>
-    <per_week>30.9</per_week>
+    <quantity>318.0</quantity>
+    <per_week>6.1</per_week>
   </row>
   <row>
-    <index>Caramelized</index>
+    <index>Caramelized Onions</index>
     <quantity>318.0</quantity>
     <per_week>6.1</per_week>
   </row>
@@ -256,14 +211,9 @@
     <per_week>6.1</per_week>
   </row>
   <row>
-    <index>Nduja</index>
+    <index>Nduja Salami</index>
     <quantity>886.0</quantity>
     <per_week>16.99</per_week>
-  </row>
-  <row>
-    <index>Salami</index>
-    <quantity>6600.25</quantity>
-    <per_week>126.58</per_week>
   </row>
   <row>
     <index>Pancetta</index>
@@ -271,32 +221,22 @@
     <per_week>16.99</per_week>
   </row>
   <row>
-    <index>Friggitello</index>
+    <index>Friggitello Peppers</index>
     <quantity>886.0</quantity>
     <per_week>16.99</per_week>
   </row>
   <row>
-    <index>Calabrese</index>
+    <index>Calabrese Salami</index>
     <quantity>1773.5</quantity>
     <per_week>34.01</per_week>
   </row>
   <row>
-    <index>Genoa</index>
+    <index>Genoa Salami</index>
     <quantity>1376.0</quantity>
     <per_week>26.39</per_week>
   </row>
   <row>
-    <index>di</index>
-    <quantity>1293.25</quantity>
-    <per_week>24.8</per_week>
-  </row>
-  <row>
-    <index>San</index>
-    <quantity>1293.25</quantity>
-    <per_week>24.8</per_week>
-  </row>
-  <row>
-    <index>Daniele</index>
+    <index>Prosciutto di San Daniele</index>
     <quantity>1293.25</quantity>
     <per_week>24.8</per_week>
   </row>
@@ -306,22 +246,22 @@
     <per_week>24.8</per_week>
   </row>
   <row>
-    <index>Coarse</index>
+    <index>Coarse Sicilian Salami</index>
     <quantity>1693.25</quantity>
     <per_week>32.47</per_week>
   </row>
   <row>
-    <index>Sicilian</index>
+    <index>Luganega Sausage</index>
     <quantity>1693.25</quantity>
     <per_week>32.47</per_week>
   </row>
   <row>
-    <index>Luganega</index>
+    <index>Onions</index>
     <quantity>1693.25</quantity>
     <per_week>32.47</per_week>
   </row>
   <row>
-    <index>Soppressata</index>
+    <index>Soppressata Salami</index>
     <quantity>871.5</quantity>
     <per_week>16.71</per_week>
   </row>
@@ -331,57 +271,42 @@
     <per_week>99.28</per_week>
   </row>
   <row>
-    <index>Peperoncini</index>
+    <index>Peperoncini verdi</index>
     <quantity>1852.5</quantity>
     <per_week>35.53</per_week>
   </row>
   <row>
-    <index>verdi</index>
-    <quantity>1852.5</quantity>
-    <per_week>35.53</per_week>
-  </row>
-  <row>
-    <index>Provolone</index>
+    <index>Provolone Cheese</index>
     <quantity>1567.5</quantity>
     <per_week>30.06</per_week>
   </row>
   <row>
-    <index>Smoked</index>
+    <index>Smoked Gouda Cheese</index>
     <quantity>1567.5</quantity>
     <per_week>30.06</per_week>
   </row>
   <row>
-    <index>Romano</index>
+    <index>Romano Cheese</index>
     <quantity>1567.5</quantity>
     <per_week>30.06</per_week>
   </row>
   <row>
-    <index>Blue</index>
+    <index>Blue Cheese</index>
     <quantity>1567.5</quantity>
     <per_week>30.06</per_week>
   </row>
   <row>
-    <index>Ricotta</index>
+    <index>Ricotta Cheese</index>
     <quantity>1976.0</quantity>
     <per_week>37.9</per_week>
   </row>
   <row>
-    <index>Gorgonzola</index>
+    <index>Gorgonzola Piccante Cheese</index>
     <quantity>1976.0</quantity>
     <per_week>37.9</per_week>
   </row>
   <row>
-    <index>Piccante</index>
-    <quantity>1976.0</quantity>
-    <per_week>37.9</per_week>
-  </row>
-  <row>
-    <index>Parmigiano</index>
-    <quantity>1976.0</quantity>
-    <per_week>37.9</per_week>
-  </row>
-  <row>
-    <index>Reggiano</index>
+    <index>Parmigiano Reggiano Cheese</index>
     <quantity>1976.0</quantity>
     <per_week>37.9</per_week>
   </row>
@@ -396,12 +321,12 @@
     <per_week>41.81</per_week>
   </row>
   <row>
-    <index>Sun-dried</index>
+    <index>Sun-dried Tomatoes</index>
     <quantity>1677.5</quantity>
     <per_week>32.17</per_week>
   </row>
   <row>
-    <index>Plum</index>
+    <index>Plum Tomatoes</index>
     <quantity>849.5</quantity>
     <per_week>16.29</per_week>
   </row>

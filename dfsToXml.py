@@ -41,18 +41,17 @@ if __name__ == '__main__':
     
     #DATA QUALITY
     print('DATA QUALITY')
-    #print('Number of null values per field:\n')
     df_quality = functions_ETL_pizzasPrediction.data_quality([df for df in dfs])
     print(df_quality)
     print()
 
     
     #TRANSFORM
-    dfs = functions_ETL_pizzasPrediction.data_cleaning(dfs[1], dfs[2], dfs[3], dfs[4])
-    df_adquirements = functions_ETL_pizzasPrediction.transform(dfs[0], dfs[1], dfs[2], dfs[3])
-    
+    dfs = functions_ETL_pizzasPrediction.data_cleaning(dfs[1:5])
+    df_acquirements = functions_ETL_pizzasPrediction.transform(dfs[0], dfs[1], dfs[2], dfs[3])
+
     #lOAD
-    dic = {'DataQuality.xml':df_quality, 'IngredientAdquirements.xml':df_adquirements}
+    dic = {'DataQuality.xml':df_quality, 'Ingredientacquirements.xml':df_acquirements}
     for key in dic.keys():
         xml_content = df_to_xml(dic[key])
         load_to_xml(key, xml_content)
